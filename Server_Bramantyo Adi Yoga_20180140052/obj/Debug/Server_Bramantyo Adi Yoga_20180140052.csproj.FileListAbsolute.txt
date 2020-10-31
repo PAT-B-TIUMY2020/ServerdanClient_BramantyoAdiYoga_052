@@ -1,0 +1,14 @@
+F:\Visual Studio 2017\Projects\Server_Bramantyo Adi Yoga_20180140052\Server_Bramantyo Adi Yoga_20180140052\bin\Debug\Server_Bramantyo Adi Yoga_20180140052.exe.config
+F:\Visual Studio 2017\Projects\Server_Bramantyo Adi Yoga_20180140052\Server_Bramantyo Adi Yoga_20180140052\bin\Debug\Server_Bramantyo Adi Yoga_20180140052.exe
+F:\Visual Studio 2017\Projects\Server_Bramantyo Adi Yoga_20180140052\Server_Bramantyo Adi Yoga_20180140052\bin\Debug\Server_Bramantyo Adi Yoga_20180140052.pdb
+F:\Visual Studio 2017\Projects\Server_Bramantyo Adi Yoga_20180140052\Server_Bramantyo Adi Yoga_20180140052\bin\Debug\ServiceMtk-P1-20180140052.dll
+F:\Visual Studio 2017\Projects\Server_Bramantyo Adi Yoga_20180140052\Server_Bramantyo Adi Yoga_20180140052\bin\Debug\ServiceMtk-P1-20180140052.pdb
+F:\Visual Studio 2017\Projects\Server_Bramantyo Adi Yoga_20180140052\Server_Bramantyo Adi Yoga_20180140052\bin\Debug\ServiceMtk-P1-20180140052.dll.config
+F:\Visual Studio 2017\Projects\Server_Bramantyo Adi Yoga_20180140052\Server_Bramantyo Adi Yoga_20180140052\obj\Debug\Server_Bramantyo Adi Yoga_20180140052.csprojAssemblyReference.cache
+F:\Visual Studio 2017\Projects\Server_Bramantyo Adi Yoga_20180140052\Server_Bramantyo Adi Yoga_20180140052\obj\Debug\Server_Bramantyo_Adi_Yoga_20180140052.Form1.resources
+F:\Visual Studio 2017\Projects\Server_Bramantyo Adi Yoga_20180140052\Server_Bramantyo Adi Yoga_20180140052\obj\Debug\Server_Bramantyo_Adi_Yoga_20180140052.Properties.Resources.resources
+F:\Visual Studio 2017\Projects\Server_Bramantyo Adi Yoga_20180140052\Server_Bramantyo Adi Yoga_20180140052\obj\Debug\Server_Bramantyo Adi Yoga_20180140052.csproj.GenerateResource.cache
+F:\Visual Studio 2017\Projects\Server_Bramantyo Adi Yoga_20180140052\Server_Bramantyo Adi Yoga_20180140052\obj\Debug\Server_Bramantyo Adi Yoga_20180140052.csproj.CoreCompileInputs.cache
+F:\Visual Studio 2017\Projects\Server_Bramantyo Adi Yoga_20180140052\Server_Bramantyo Adi Yoga_20180140052\obj\Debug\Server_Bramantyo Adi Yoga_20180140052.csproj.CopyComplete
+F:\Visual Studio 2017\Projects\Server_Bramantyo Adi Yoga_20180140052\Server_Bramantyo Adi Yoga_20180140052\obj\Debug\Server_Bramantyo Adi Yoga_20180140052.exe
+F:\Visual Studio 2017\Projects\Server_Bramantyo Adi Yoga_20180140052\Server_Bramantyo Adi Yoga_20180140052\obj\Debug\Server_Bramantyo Adi Yoga_20180140052.pdb

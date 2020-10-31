@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server_Bramantyo Adi Yoga_20180140052", "Server_Bramantyo Adi Yoga_20180140052\Server_Bramantyo Adi Yoga_20180140052.csproj", "{F57E5FD8-6465-4EA2-BEC7-5C35D91427AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_Bramantyo Adi Yoga_20180140052", "..\Client_Bramantyo Adi Yoga_20180140052\Client_Bramantyo Adi Yoga_20180140052\Client_Bramantyo Adi Yoga_20180140052.csproj", "{FEEB1BF5-B271-4998-A5AD-A7282E81DF24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F57E5FD8-6465-4EA2-BEC7-5C35D91427AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F57E5FD8-6465-4EA2-BEC7-5C35D91427AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F57E5FD8-6465-4EA2-BEC7-5C35D91427AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F57E5FD8-6465-4EA2-BEC7-5C35D91427AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEEB1BF5-B271-4998-A5AD-A7282E81DF24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEEB1BF5-B271-4998-A5AD-A7282E81DF24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEEB1BF5-B271-4998-A5AD-A7282E81DF24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEEB1BF5-B271-4998-A5AD-A7282E81DF24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F22C0776-7534-44DC-BF9D-F1ACCB74AF53}
+	EndGlobalSection
+EndGlobal
